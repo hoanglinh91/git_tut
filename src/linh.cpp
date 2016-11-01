@@ -3,3 +3,5 @@
 
 
 // LinhNDH fix bug x
+
+// LinhNDH fix bug x nhung quen khong xoa code thua nen chay bi loi, fix bug x lan 2
